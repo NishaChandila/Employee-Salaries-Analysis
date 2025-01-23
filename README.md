@@ -23,7 +23,7 @@ I performed data exploration and preprocessing using Python. Libraries such as P
 ## Power BI Dashboard  
 Building on the Python analysis, I created a Power BI dashboard that provides interactive visualizations of salary trends. The dashboard highlights how salaries vary by company size, location, job roles, and experience levels. It allows users to filter and drill down into the data, making it a powerful tool for understanding salary distribution patterns within the tech industry.  
 
-![Dashboard]([https://github.com/NishaChandila/project-assets](https://github.com/NishaChandila/project-assets/blob/main/Employee-Salary-Report.jpg))
+![Dashboard](https://github.com/NishaChandila/project-assets](https://github.com/NishaChandila/project-assets/blob/main/Employee-Salary-Report.jpg)
 
 - Employee Salaries [Dataset](https://github.com/NishaChandila/Employee-Salaries-Analysis/blob/main/ds_salaries.csv)
 - Employee Salaries [Python EDA](https://github.com/NishaChandila/Employee-Salaries-Analysis/blob/main/Employee-Salaries-EDA.ipynb)

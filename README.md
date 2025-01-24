@@ -1,4 +1,4 @@
-# Employee Salaries in Tech  
+# Employee Salaries in Tech
 
 ## Objective  
 The objective of this project is to analyze salary trends in the tech industry by examining the impact of various factors such as company location, company size, job roles, and employee experience levels. This analysis aims to uncover significant patterns and correlations that influence compensation. The insights derived from this study can help both employees and employers better understand the dynamics of salary distribution, inform career decisions, and guide organizational policies for competitive compensation strategies.  
